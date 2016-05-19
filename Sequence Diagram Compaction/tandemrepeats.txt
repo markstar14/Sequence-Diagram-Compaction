@@ -1,0 +1,16 @@
+All primitive tandem repeats in the format [index, alpha, numrepeats]
+14,d,2
+13,d,2
+13,d,3
+12,d,2
+12,d,3
+12,d,4
+9,d,2
+8,d,2
+8,d,3
+7,bddd,2
+6,dbdd,2
+5,d,2
+5,ddbd,2
+4,bdd,2
+3,dbd,2

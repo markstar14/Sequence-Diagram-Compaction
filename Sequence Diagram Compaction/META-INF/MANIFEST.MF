@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Sequence_Diagram_Compaction
+Bundle-SymbolicName: Sequence_Diagram_Compaction;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: sequence_diagram_compaction.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ edu.buffalo.cse.jive.ui;bundle-version="1.9.29",
+ edu.buffalo.cse.jive.debug.model;bundle-version="1.9.29",
+ edu.buffalo.cse.jive.launch;bundle-version="1.9.29"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: lib/plantuml.jar,
+ .
